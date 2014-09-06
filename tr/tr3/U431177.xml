@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<COUNT>1</COUNT>
+<ERROR></ERROR>
+<HASH_ALL>51CEFA8DFF9A693FD9A44B02F2E11D88</HASH_ALL>
+<REPORTS>
+<REPORT>
+  <REPORT_BODY description="Результат виконання запиту">
+    <SUBJECT num="1" description="Запис 1">
+      <NAME description="Повне найменування юридичної особи та скорочене у разі його наявності">
+        <NAME description="Повне найменування">
+          <OLF_CODE description="Код ОПФ">420</OLF_CODE>
+          <OLF_NAME description="Назва ОПФ">ОРГАН МІСЦЕВОГО САМОВРЯДУВАННЯ</OLF_NAME>
+          <OLF_TYPE ID="" description="Тип ОПФ"/>
+          <INCLUDE_OLF ID="0" description="Включати ОПФ до найменування">ні</INCLUDE_OLF>
+          <NAME description="Назва">ВОСКРЕСЕНСЬКА СІЛЬСЬКА РАДА</NAME>
+          <COMBINED description="Найменування (для відображення)">ВОСКРЕСЕНСЬКА СІЛЬСЬКА РАДА</COMBINED>
+        </NAME>
+        <SHORT_NAME description="Скорочене найменування">ВОСКРЕСЕНСЬКА С/Р</SHORT_NAME>
+      </NAME>
+      <CODE description="Ідентифікаційний код юридичної особи">00431177</CODE>
+      <OLF description="Організаційно-правова форма">
+        <OLF_CODE description="Код ОПФ">420</OLF_CODE>
+        <OLF_NAME description="Назва ОПФ">ОРГАН МІСЦЕВОГО САМОВРЯДУВАННЯ</OLF_NAME>
+      </OLF>
+      <ADDRESS description="Місцезнаходження юридичної особи">
+        <AD_TYPE ID="1" description="Тип адреси">звичайна адреса</AD_TYPE>
+        <AD_HOUSE_TYPE ID="" description="Тип будинку"/>
+        <HOUSE description="Номер будинку"/>
+        <AD_BUILDING_TYPE ID="" description="Тип корпуса"/>
+        <BUILDING description="Номер корпуса"/>
+        <AD_NUM_TYPE ID="" description="Тип квартири"/>
+        <NUM description="Номер квартири"/>
+        <ZIP_CODE description="Індекс">75350</ZIP_CODE>
+        <CN_NAME description="Країна">УКРАЇНА</CN_NAME>
+        <CN_CODE description="Код країни (alpha-3)">UKR</CN_CODE>
+        <ATU_NAME description="Населений пункт">Херсонська обл., Новотроїцький район, село Воскресенка</ATU_NAME>
+        <ATU_CODE description="Код населеного пункта (АТУ)">6524481001</ATU_CODE>
+        <STREET description="Вулиця">ВУЛИЦЯ ЦЕНТРАЛЬНА</STREET>
+        <ADDITIONAL description="Адреса в довільному форматі (вказується, якщо тип адреси &apos;в довільному форматі&apos;)"/>
+        <COMBINED description="Комбінована адреса (для відображення)">75350, Херсонська обл., Новотроїцький район, село Воскресенка, ВУЛИЦЯ ЦЕНТРАЛЬНА</COMBINED>
+      </ADDRESS>
+      <MANAGING_PAPER description="Дані про розпорядчий акт, на підставі якого створено юридичну особу">
+        <NAME description="Найменування"/>
+        <NUMBER description="Номер"/>
+        <DATE description="Дата" format="DD.MM.YYYY"/>
+      </MANAGING_PAPER>
+      <REGISTRATION description="Дата та номер запису в Єдиному державному реєстрі про проведення державної реєстрації юридичної особи – у разі, коли державна реєстрація юридичної особи була проведена після набрання чинності Законом України &quot;Про державну реєстрацію юридичних осіб та фізичних осіб-підприємців&quot;">
+        <OP_DATE description="Дата запису" format="DD.MM.YYYY"/>
+        <OP_NUM description="Номер запису"/>
+      </REGISTRATION>
+      <INCLUDE description="Дата державної реєстрації, дата та номер запису в Єдиному державному реєстрі про включення до Єдиного державного реєстру відомостей про юридичну особу – у разі, коли державна реєстрація юридичної особи була проведена до набрання чинності Законом України &quot;Про державну реєстрацію юридичних осіб та фізичних осіб-підприємців&quot;">
+        <RF_DATE description="Дата державної реєстрації" format="DD.MM.YYYY">21.05.1997</RF_DATE>
+        <OP_DATE description="Дата запису" format="DD.MM.YYYY">23.01.2008</OP_DATE>
+        <OP_NUM description="Номер запису">1 494 120 0000 000569</OP_NUM>
+      </INCLUDE>
+      <REFORMATION description="Дата державної реєстрації, дата та номер запису в Єдиному державному реєстрі про проведення державної реєстрації юридичної особи, яка утворена в результаті перетворення">
+        <RF_DATE description="Дата державної реєстрації" format="DD.MM.YYYY"/>
+        <OP_DATE description="Дата запису" format="DD.MM.YYYY"/>
+        <OP_NUM description="Номер запису"/>
+      </REFORMATION>
+      <CONFIRMATION_STATE ID="2" description="Статус відомостей про юридичну особу">відомості не підтверджено</CONFIRMATION_STATE>
+      <BRANCHES description="Дані про відокремлені підрозділи юридичної особи"/>
+      <TERMINATION_STARTED_INFO description="Дані про перебування юридичної особи в процесі припинення"/>
+      <TERMINATED_INFO description="Дата та номер запису про державну реєстрацію припинення юридичної особи, підстава для його внесення"/>
+      <EXCHANGE_DATA description="Відомості, отримані в порядку взаємного обміну інформацією з відомчих реєстрів органів статистики, Міндоходів, Пенсійного фонду України">
+        <REGISTRATION_REMOVAL_INFO description="Дата та номер запису про взяття та зняття з обліку, назва та ідентифікаційні коди органів статистики,  Міндоходів, Пенсійного фонду України, в яких юридична особа перебуває на обліку:">
+          <EXCHANGE_ANSWER description="Дані від одного з органів">
+            <AUTHORITY_NAME description="Назва органу"/>
+            <AUTHORITY_CODE description="Ідентифікаційний код органу"/>
+            <TAX_PAYER_TYPE ID="" description="Відомості про відомчий реєстр"/>
+            <START_DATE description="Дата взяття на облік" format="DD.MM.YYYY"/>
+            <START_NUM description="Номер взяття на облік"/>
+            <END_DATE description="Дата зняття з обліку" format="DD.MM.YYYY"/>
+            <END_NUM description="Номер зняття з обліку"/>
+          </EXCHANGE_ANSWER>
+          <EXCHANGE_ANSWER description="Дані від одного з органів">
+            <AUTHORITY_NAME description="Назва органу"/>
+            <AUTHORITY_CODE description="Ідентифікаційний код органу"/>
+            <TAX_PAYER_TYPE ID="4002" description="Відомості про відомчий реєстр">(дані про взяття на облік як платника податків)</TAX_PAYER_TYPE>
+            <START_DATE description="Дата взяття на облік" format="DD.MM.YYYY"/>
+            <START_NUM description="Номер взяття на облік"/>
+            <END_DATE description="Дата зняття з обліку" format="DD.MM.YYYY"/>
+            <END_NUM description="Номер зняття з обліку"/>
+          </EXCHANGE_ANSWER>
+          <EXCHANGE_ANSWER description="Дані від одного з органів">
+            <AUTHORITY_NAME description="Назва органу"/>
+            <AUTHORITY_CODE description="Ідентифікаційний код органу"/>
+            <TAX_PAYER_TYPE ID="" description="Відомості про відомчий реєстр">(дані про взяття на облік як платника єдиного внеску)</TAX_PAYER_TYPE>
+            <START_DATE description="Дата взяття на облік" format="DD.MM.YYYY"/>
+            <START_NUM description="Номер взяття на облік"/>
+            <END_DATE description="Дата зняття з обліку" format="DD.MM.YYYY"/>
+            <END_NUM description="Номер зняття з обліку"/>
+          </EXCHANGE_ANSWER>
+          <SIMPLE_TAX_PAYER_COMMENT description="Коментар щодо відсутності необхідності взяття на облік в ПФУ платника єдиного внеску"/>
+        </REGISTRATION_REMOVAL_INFO>
+        <TERMINATION_MESSAGES_DATE description="Дата надходження від органів Міндоходів, Пенсійного фонду України до державного реєстратора документів (повідомлень, інформації), передбачених Законом України &quot;Про державну реєстрацію юридичних осіб та фізичних осіб-підприємців&quot;, у зв’язку з припиненням юридичної особи із зазначенням прізвища, імені та по батькові посадової особи, яка підписала документ"/>
+        <PRIMARY_ACTIVITY_KIND description="Дані органів статистики про основний вид економічної діяльності юридичної особи, визначений на підставі даних державних статистичних спостережень відповідно до статистичної методології за підсумками діяльності за рік">
+          <CODE description="Код КВЕД">84.11</CODE>
+          <NAME description="Назва КВЕД">Державне управління загального характеру</NAME>
+          <PRIMARY ID="1" description="Ознака основного вида діяльності">так</PRIMARY>
+        </PRIMARY_ACTIVITY_KIND>
+        <REG_NUMBER_KLASS description="Дані про реєстраційний номер платника єдиного внеску, клас професійного ризику виробництва платника єдиного внеску за основним видом його економічної діяльності">
+          <REG_NUMBER description="Дані про реєстраційний номер платника єдиного внеску"/>
+          <KLASS description="Дані про клас професійного ризику виробництва платника єдиного внеску за основним видом його економічної діяльності"/>
+        </REG_NUMBER_KLASS>
+        <END_TERM description="Термін, до якого юридична особа перебуває на обліку в органі Міндоходів за місцем попередньої реєстрації, у разі зміни місцезнаходження юридичної особи" format="DD.MM.YYYY"/>
+      </EXCHANGE_DATA>
+    </SUBJECT>
+  </REPORT_BODY>
+</REPORT>
+</REPORTS>
+</DATA>

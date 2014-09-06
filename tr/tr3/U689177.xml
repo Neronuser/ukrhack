@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<COUNT>1</COUNT>
+<ERROR></ERROR>
+<HASH_ALL>9E368D2957EA669C7B0986D320E103EB</HASH_ALL>
+<REPORTS>
+<REPORT>
+  <REPORT_BODY description="Результат виконання запиту">
+    <SUBJECT num="1" description="Запис 1">
+      <NAME description="Повне найменування юридичної особи та скорочене у разі його наявності">
+        <NAME description="Повне найменування">
+          <OLF_CODE description="Код ОПФ">140</OLF_CODE>
+          <OLF_NAME description="Назва ОПФ">ДЕРЖАВНЕ ПІДПРИЄМСТВО</OLF_NAME>
+          <OLF_TYPE ID="" description="Тип ОПФ"/>
+          <INCLUDE_OLF ID="1" description="Включати ОПФ до найменування">так</INCLUDE_OLF>
+          <NAME description="Назва">&quot;ДНІПРОПЕТРОВСЬКИЙ НАУКОВО-ДОСЛІДНИЙ ТА ПРОЕКТНИЙ ІНСТИТУТ ЗЕМЛЕУСТРОЮ&quot;</NAME>
+          <COMBINED description="Найменування (для відображення)">ДЕРЖАВНЕ ПІДПРИЄМСТВО &quot;ДНІПРОПЕТРОВСЬКИЙ НАУКОВО-ДОСЛІДНИЙ ТА ПРОЕКТНИЙ ІНСТИТУТ ЗЕМЛЕУСТРОЮ&quot;</COMBINED>
+        </NAME>
+        <SHORT_NAME description="Скорочене найменування">ДП &quot;ДНІПРОПЕТРОВСЬКИЙ ІНСТИТУТ ЗЕМЛЕУСТРОЮ&quot;</SHORT_NAME>
+      </NAME>
+      <NAME_ENG description="Повне та скорочене найменування юридичної особи англійською мовою у разі їх наявності">
+        <NAME_ENG description="Повне найменування"/>
+        <SHORT_NAME_ENG description="Скорочене найменування"/>
+      </NAME_ENG>
+      <CODE description="Ідентифікаційний код юридичної особи">00689177</CODE>
+      <OLF description="Організаційно-правова форма">
+        <OLF_CODE description="Код ОПФ">140</OLF_CODE>
+        <OLF_NAME description="Назва ОПФ">ДЕРЖАВНЕ ПІДПРИЄМСТВО</OLF_NAME>
+      </OLF>
+      <EXECUTIVE_POWER description="Центральний чи місцевий орган виконавчої влади, до сфери управління якого належить державне підприємство або частка держави у статутному капіталі юридичної особи, якщо ця частка становить не менше 25 відсотків">
+        <NAME description="Назва"/>
+        <CODE description="Код ЄДРПОУ"/>
+      </EXECUTIVE_POWER>
+      <ADDRESS description="Місцезнаходження юридичної особи">
+        <AD_TYPE ID="1" description="Тип адреси">звичайна адреса</AD_TYPE>
+        <AD_HOUSE_TYPE ID="1" description="Тип будинку">будинок</AD_HOUSE_TYPE>
+        <HOUSE description="Номер будинку">42</HOUSE>
+        <AD_BUILDING_TYPE ID="" description="Тип корпуса"/>
+        <BUILDING description="Номер корпуса"/>
+        <AD_NUM_TYPE ID="" description="Тип квартири"/>
+        <NUM description="Номер квартири"/>
+        <ZIP_CODE description="Індекс">52005</ZIP_CODE>
+        <CN_NAME description="Країна">УКРАЇНА</CN_NAME>
+        <CN_CODE description="Код країни (alpha-3)">UKR</CN_CODE>
+        <ATU_NAME description="Населений пункт">Дніпропетровська обл., Дніпропетровський район, селище міського типу Ювілейне</ATU_NAME>
+        <ATU_CODE description="Код населеного пункта (АТУ)">1221455800</ATU_CODE>
+        <STREET description="Вулиця">ВУЛ.РАДГОСПНА</STREET>
+        <ADDITIONAL description="Адреса в довільному форматі (вказується, якщо тип адреси &apos;в довільному форматі&apos;)"/>
+        <COMBINED description="Комбінована адреса (для відображення)">52005, Дніпропетровська обл., Дніпропетровський район, селище міського типу Ювілейне, ВУЛ.РАДГОСПНА, будинок 42</COMBINED>
+      </ADDRESS>
+      <FOUNDERS description="Перелік засновників (учасників) юридичної особи, у тому числі прізвище, ім&apos;я, по батькові, місце проживання, якщо засновник – фізична особа; найменування, місцезнаходження та ідентифікаційний код юридичної особи, якщо засновник – юридична особа">
+        <FOUNDER description="Засновник">
+          <NAME description="Найменування/ПІБ засновника">
+            <OLF_CODE description="Код ОПФ">410</OLF_CODE>
+            <OLF_NAME description="Назва ОПФ">ОРГАН ДЕРЖАВНОЇ ВЛАДИ</OLF_NAME>
+            <OLF_TYPE ID="" description="Тип ОПФ"/>
+            <INCLUDE_OLF ID="0" description="Включати ОПФ до найменування">ні</INCLUDE_OLF>
+            <NAME description="Назва">ДЕРЖАВНЕ АГЕНТСТВО ЗЕМЕЛЬНИХ РЕСУРСІВ УКРАЇНИ</NAME>
+            <COMBINED description="Найменування (для відображення)">ДЕРЖАВНЕ АГЕНТСТВО ЗЕМЕЛЬНИХ РЕСУРСІВ УКРАЇНИ</COMBINED>
+          </NAME>
+          <CODE description="Код ЄДРПОУ засновника">37552980</CODE>
+          <ADDRESS description="Адреса засновника">
+            <AD_TYPE ID="1" description="Тип адреси">звичайна адреса</AD_TYPE>
+            <AD_HOUSE_TYPE ID="1" description="Тип будинку">будинок</AD_HOUSE_TYPE>
+            <HOUSE description="Номер будинку">3</HOUSE>
+            <AD_BUILDING_TYPE ID="" description="Тип корпуса"/>
+            <BUILDING description="Номер корпуса"/>
+            <AD_NUM_TYPE ID="" description="Тип квартири"/>
+            <NUM description="Номер квартири"/>
+            <ZIP_CODE description="Індекс">03680</ZIP_CODE>
+            <CN_NAME description="Країна">УКРАЇНА</CN_NAME>
+            <CN_CODE description="Код країни (alpha-3)">UKR</CN_CODE>
+            <ATU_NAME description="Населений пункт">м.Київ, Солом&apos;янський район</ATU_NAME>
+            <ATU_CODE description="Код населеного пункта (АТУ)">8038900000</ATU_CODE>
+            <STREET description="Вулиця">ВУЛИЦЯ НАРОДНОГО ОПОЛЧЕННЯ</STREET>
+            <ADDITIONAL description="Адреса в довільному форматі (вказується, якщо тип адреси &apos;в довільному форматі&apos;)"/>
+            <COMBINED description="Комбінована адреса (для відображення)">03680, м.Київ, Солом&apos;янський район, ВУЛИЦЯ НАРОДНОГО ОПОЛЧЕННЯ, будинок 3</COMBINED>
+          </ADDRESS>
+          <AUTHORIZED_CAPITAL description="Розмір внеску до статутного фонду (грн.)">0.00</AUTHORIZED_CAPITAL>
+        </FOUNDER>
+      </FOUNDERS>
+      <AUTHORIZED_CAPITAL description="Дані про розмір статутного капіталу (статутного або складеного капіталу) та про дату закінчення його формування">
+        <VALUE description="Розмір (грн.)">0.00</VALUE>
+        <END_DATE description="Дата закінчення формування" format="DD.MM.YYYY"/>
+      </AUTHORIZED_CAPITAL>
+      <ACTIVITY_KINDS description="Види діяльності">
+        <ACTIVITY_KIND description="Вид діяльності">
+          <CODE description="Код КВЕД">68.31</CODE>
+          <NAME description="Назва КВЕД">Агентства нерухомості</NAME>
+          <PRIMARY ID="0" description="Ознака основного вида діяльності">ні</PRIMARY>
+        </ACTIVITY_KIND>
+        <ACTIVITY_KIND description="Вид діяльності">
+          <CODE description="Код КВЕД">71.12</CODE>
+          <NAME description="Назва КВЕД">Діяльність у сфері інжинірингу, геології та геодезії, надання послуг технічного консультування в цих сферах</NAME>
+          <PRIMARY ID="0" description="Ознака основного вида діяльності">ні</PRIMARY>
+        </ACTIVITY_KIND>
+        <ACTIVITY_KIND description="Вид діяльності">
+          <CODE description="Код КВЕД">72.19</CODE>
+          <NAME description="Назва КВЕД">Дослідження й експериментальні розробки у сфері інших природничих і технічних наук</NAME>
+          <PRIMARY ID="1" description="Ознака основного вида діяльності">так</PRIMARY>
+        </ACTIVITY_KIND>
+      </ACTIVITY_KINDS>
+      <SUPERIOR_MANAGEMENT description="Відомості про органи управління юридичної особи">ПРАВЛІННЯ</SUPERIOR_MANAGEMENT>
+      <SIGNERS description="Прізвище, ім&apos;я, по батькові, дата обрання (призначення) осіб, які обираються (призначаються) до органу управління юридичної особи, уповноважених представляти юридичну особу у правовідносинах з третіми особами, або осіб, які мають право вчиняти дії від імені юридичної особи без довіреності, у тому числі підписувати договори та дані про наявність обмежень щодо представництва від імені юридичної особи">
+        <SIGNER_NAME description="Підписант ЮО">
+          <LAST_NAME description="Прізвище">МІРОШНІЧЕНКО</LAST_NAME>
+          <FIRST_MIDDLE_NAME description="Ім&apos;я, по батькові">ІРИНА АНАТОЛІЇВНА</FIRST_MIDDLE_NAME>
+          <APPOINTMENT_DATE description="Дата обрання/призначення" format="DD.MM.YYYY">03.08.2011</APPOINTMENT_DATE>
+          <ROLE ID="3" description="Роль суб&apos;єкта">керівник</ROLE>
+          <RESTRICTION description="Обмеження"/>
+        </SIGNER_NAME>
+      </SIGNERS>
+      <REGISTRATION description="Дата та номер запису в Єдиному державному реєстрі про проведення державної реєстрації юридичної особи – у разі, коли державна реєстрація юридичної особи була проведена після набрання чинності Законом України &quot;Про державну реєстрацію юридичних осіб та фізичних осіб-підприємців&quot;">
+        <OP_DATE description="Дата запису" format="DD.MM.YYYY"/>
+        <OP_NUM description="Номер запису"/>
+      </REGISTRATION>
+      <INCLUDE description="Дата державної реєстрації, дата та номер запису в Єдиному державному реєстрі про включення до Єдиного державного реєстру відомостей про юридичну особу – у разі, коли державна реєстрація юридичної особи була проведена до набрання чинності Законом України &quot;Про державну реєстрацію юридичних осіб та фізичних осіб-підприємців&quot;">
+        <RF_DATE description="Дата державної реєстрації" format="DD.MM.YYYY">03.11.2003</RF_DATE>
+        <OP_DATE description="Дата запису" format="DD.MM.YYYY">09.11.2004</OP_DATE>
+        <OP_NUM description="Номер запису">1 203 120 0000 000233</OP_NUM>
+      </INCLUDE>
+      <REFORMATION description="Дата державної реєстрації, дата та номер запису в Єдиному державному реєстрі про проведення державної реєстрації юридичної особи, яка утворена в результаті перетворення">
+        <RF_DATE description="Дата державної реєстрації" format="DD.MM.YYYY"/>
+        <OP_DATE description="Дата запису" format="DD.MM.YYYY"/>
+        <OP_NUM description="Номер запису"/>
+      </REFORMATION>
+      <CONFIRMATION_STATE ID="2" description="Статус відомостей про юридичну особу">відомості не підтверджено</CONFIRMATION_STATE>
+      <STATUTE_NAME description="Назва установчого документа"/>
+      <MODEL_STATUTE description="Дані про наявність відмітки про те, що юридична особа створюється та діє на підставі модельного статуту"/>
+      <BRANCHES description="Дані про відокремлені підрозділи юридичної особи"/>
+      <BANKRUPTCY_READJUSTMENT_INFO description="Дані про перебування юридичної особи в процесі провадження у справі про банкрутство, санації"/>
+      <TERMINATION_STARTED_INFO description="Дані про перебування юридичної особи в процесі припинення"/>
+      <CREDITOR_REQ_END_DATE description="Відомості про строк, визначений засновниками (учасниками) юридичної особи, судом або органом, що прийняв рішення про припинення юридичної особи, для заявлення кредиторами своїх вимог" format="DD.MM.YYYY"/>
+      <TERMINATED_INFO description="Дата та номер запису про державну реєстрацію припинення юридичної особи, підстава для його внесення"/>
+      <TERMINATION_CANCEL_INFO description="Дата та номер запису про відміну державної реєстрації припинення юридичної особи, підстава для його внесення"/>
+      <PREDECESSORS description="Дані про юридичних осіб, правонаступником яких є зареєстрована юридична особа"/>
+      <ASSIGNEES description="Дані про юридичних осіб-правонаступників: повне найменування та місцезнаходження юридичних осіб-правонаступників, їх ідентифікаційні коди"/>
+      <CURRENT_AUTHORITY description="Місцезнаходження реєстраційної справи">Реєстраційна служба Дніпропетровського районного управління юстиції Дніпропетровської області</CURRENT_AUTHORITY>
+      <EXCHANGE_DATA description="Відомості, отримані в порядку взаємного обміну інформацією з відомчих реєстрів органів статистики, Міндоходів, Пенсійного фонду України">
+        <REGISTRATION_REMOVAL_INFO description="Дата та номер запису про взяття та зняття з обліку, назва та ідентифікаційні коди органів статистики,  Міндоходів, Пенсійного фонду України, в яких юридична особа перебуває на обліку:">
+          <EXCHANGE_ANSWER description="Дані від одного з органів">
+            <AUTHORITY_NAME description="Назва органу"/>
+            <AUTHORITY_CODE description="Ідентифікаційний код органу"/>
+            <TAX_PAYER_TYPE ID="" description="Відомості про відомчий реєстр"/>
+            <START_DATE description="Дата взяття на облік" format="DD.MM.YYYY"/>
+            <START_NUM description="Номер взяття на облік"/>
+            <END_DATE description="Дата зняття з обліку" format="DD.MM.YYYY"/>
+            <END_NUM description="Номер зняття з обліку"/>
+          </EXCHANGE_ANSWER>
+          <EXCHANGE_ANSWER description="Дані від одного з органів">
+            <AUTHORITY_NAME description="Назва органу"/>
+            <AUTHORITY_CODE description="Ідентифікаційний код органу"/>
+            <TAX_PAYER_TYPE ID="4002" description="Відомості про відомчий реєстр">(дані про взяття на облік як платника податків)</TAX_PAYER_TYPE>
+            <START_DATE description="Дата взяття на облік" format="DD.MM.YYYY"/>
+            <START_NUM description="Номер взяття на облік"/>
+            <END_DATE description="Дата зняття з обліку" format="DD.MM.YYYY"/>
+            <END_NUM description="Номер зняття з обліку"/>
+          </EXCHANGE_ANSWER>
+          <EXCHANGE_ANSWER description="Дані від одного з органів">
+            <AUTHORITY_NAME description="Назва органу"/>
+            <AUTHORITY_CODE description="Ідентифікаційний код органу"/>
+            <TAX_PAYER_TYPE ID="" description="Відомості про відомчий реєстр">(дані про взяття на облік як платника єдиного внеску)</TAX_PAYER_TYPE>
+            <START_DATE description="Дата взяття на облік" format="DD.MM.YYYY"/>
+            <START_NUM description="Номер взяття на облік"/>
+            <END_DATE description="Дата зняття з обліку" format="DD.MM.YYYY"/>
+            <END_NUM description="Номер зняття з обліку"/>
+          </EXCHANGE_ANSWER>
+          <SIMPLE_TAX_PAYER_COMMENT description="Коментар щодо відсутності необхідності взяття на облік в ПФУ платника єдиного внеску"/>
+        </REGISTRATION_REMOVAL_INFO>
+        <TERMINATION_MESSAGES_DATE description="Дата надходження від органів Міндоходів, Пенсійного фонду України до державного реєстратора документів (повідомлень, інформації), передбачених Законом України &quot;Про державну реєстрацію юридичних осіб та фізичних осіб-підприємців&quot;, у зв’язку з припиненням юридичної особи із зазначенням прізвища, імені та по батькові посадової особи, яка підписала документ"/>
+        <PRIMARY_ACTIVITY_KIND description="Дані органів статистики про основний вид економічної діяльності юридичної особи, визначений на підставі даних державних статистичних спостережень відповідно до статистичної методології за підсумками діяльності за рік">
+          <CODE description="Код КВЕД">72.19</CODE>
+          <NAME description="Назва КВЕД">Дослідження й експериментальні розробки у сфері інших природничих і технічних наук</NAME>
+          <PRIMARY ID="1" description="Ознака основного вида діяльності">так</PRIMARY>
+        </PRIMARY_ACTIVITY_KIND>
+        <REG_NUMBER_KLASS description="Дані про реєстраційний номер платника єдиного внеску, клас професійного ризику виробництва платника єдиного внеску за основним видом його економічної діяльності">
+          <REG_NUMBER description="Дані про реєстраційний номер платника єдиного внеску"/>
+          <KLASS description="Дані про клас професійного ризику виробництва платника єдиного внеску за основним видом його економічної діяльності"/>
+        </REG_NUMBER_KLASS>
+        <END_TERM description="Термін, до якого юридична особа перебуває на обліку в органі Міндоходів за місцем попередньої реєстрації, у разі зміни місцезнаходження юридичної особи" format="DD.MM.YYYY"/>
+      </EXCHANGE_DATA>
+      <CONTACTS description="Інформація про здійснення зв&apos;язку з юридичною особою">
+        <PHONE_NUM1 description="Телефон 1">279072         </PHONE_NUM1>
+        <PHONE_NUM2 description="Телефон 2">383503         </PHONE_NUM2>
+        <E_MAIL description="Адреса електронної пошти"/>
+        <FAX_NUM description="Факс">279072         </FAX_NUM>
+        <WEB_PAGE description="Веб сторінка">dpdiz@optima.com.ua.</WEB_PAGE>
+        <ADDITIONAL description="Інші відомості"/>
+      </CONTACTS>
+    </SUBJECT>
+  </REPORT_BODY>
+</REPORT>
+</REPORTS>
+</DATA>

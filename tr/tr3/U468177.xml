@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<COUNT>1</COUNT>
+<ERROR></ERROR>
+<HASH_ALL>161EA812C035B7256C44D11B7FF5E08D</HASH_ALL>
+<REPORTS>
+<REPORT>
+  <REPORT_BODY description="Результат виконання запиту">
+    <SUBJECT num="1" description="Запис 1">
+      <NAME description="Повне найменування юридичної особи та скорочене у разі його наявності">
+        <NAME description="Повне найменування">
+          <OLF_CODE description="Код ОПФ">140</OLF_CODE>
+          <OLF_NAME description="Назва ОПФ">ДЕРЖАВНЕ ПІДПРИЄМСТВО</OLF_NAME>
+          <OLF_TYPE ID="" description="Тип ОПФ"/>
+          <INCLUDE_OLF ID="0" description="Включати ОПФ до найменування">ні</INCLUDE_OLF>
+          <NAME description="Назва">ДЕРЖАВНЕ ПІДПРИЄМСТВО-УКРАЇНСЬКИЙ ДЕРЖАВНИЙ ІНСТИТУТ ПО ПРОЕКТУВАННЮ ПІДПРИЄМСТВ РИБНОГО ГОСПОДАРСТВА І ПРОМИСЛОВОСТІ &quot;УКРРИБПРОЕКТ&quot;</NAME>
+          <COMBINED description="Найменування (для відображення)">ДЕРЖАВНЕ ПІДПРИЄМСТВО-УКРАЇНСЬКИЙ ДЕРЖАВНИЙ ІНСТИТУТ ПО ПРОЕКТУВАННЮ ПІДПРИЄМСТВ РИБНОГО ГОСПОДАРСТВА І ПРОМИСЛОВОСТІ &quot;УКРРИБПРОЕКТ&quot;</COMBINED>
+        </NAME>
+        <SHORT_NAME description="Скорочене найменування">ДПІ &quot;УКРРИБПРОЕКТ&quot;</SHORT_NAME>
+      </NAME>
+      <NAME_ENG description="Повне та скорочене найменування юридичної особи англійською мовою у разі їх наявності">
+        <NAME_ENG description="Повне найменування"/>
+        <SHORT_NAME_ENG description="Скорочене найменування"/>
+      </NAME_ENG>
+      <CODE description="Ідентифікаційний код юридичної особи">00468177</CODE>
+      <OLF description="Організаційно-правова форма">
+        <OLF_CODE description="Код ОПФ">140</OLF_CODE>
+        <OLF_NAME description="Назва ОПФ">ДЕРЖАВНЕ ПІДПРИЄМСТВО</OLF_NAME>
+      </OLF>
+      <EXECUTIVE_POWER description="Центральний чи місцевий орган виконавчої влади, до сфери управління якого належить державне підприємство або частка держави у статутному капіталі юридичної особи, якщо ця частка становить не менше 25 відсотків">
+        <NAME description="Назва">ДЕРЖАВНИЙ ДЕПАРТАМЕНТ РИБНОГО ГОСПОДАРСТВА</NAME>
+        <CODE description="Код ЄДРПОУ">00011050</CODE>
+      </EXECUTIVE_POWER>
+      <ADDRESS description="Місцезнаходження юридичної особи">
+        <AD_TYPE ID="1" description="Тип адреси">звичайна адреса</AD_TYPE>
+        <AD_HOUSE_TYPE ID="1" description="Тип будинку">будинок</AD_HOUSE_TYPE>
+        <HOUSE description="Номер будинку">82-А</HOUSE>
+        <AD_BUILDING_TYPE ID="" description="Тип корпуса"/>
+        <BUILDING description="Номер корпуса"/>
+        <AD_NUM_TYPE ID="" description="Тип квартири"/>
+        <NUM description="Номер квартири"/>
+        <ZIP_CODE description="Індекс">04050</ZIP_CODE>
+        <CN_NAME description="Країна">УКРАЇНА</CN_NAME>
+        <CN_CODE description="Код країни (alpha-3)">UKR</CN_CODE>
+        <ATU_NAME description="Населений пункт">м.Київ, Шевченківський район</ATU_NAME>
+        <ATU_CODE description="Код населеного пункта (АТУ)">8039100000</ATU_CODE>
+        <STREET description="Вулиця">ВУЛИЦЯ ТУРГЕНЄВСЬКА</STREET>
+        <ADDITIONAL description="Адреса в довільному форматі (вказується, якщо тип адреси &apos;в довільному форматі&apos;)"/>
+        <COMBINED description="Комбінована адреса (для відображення)">04050, м.Київ, ВУЛИЦЯ ТУРГЕНЄВСЬКА, будинок 82-А</COMBINED>
+      </ADDRESS>
+      <FOUNDERS description="Перелік засновників (учасників) юридичної особи, у тому числі прізвище, ім&apos;я, по батькові, місце проживання, якщо засновник – фізична особа; найменування, місцезнаходження та ідентифікаційний код юридичної особи, якщо засновник – юридична особа">
+        <FOUNDER description="Засновник">
+          <NAME description="Найменування/ПІБ засновника">
+            <OLF_CODE description="Код ОПФ">410</OLF_CODE>
+            <OLF_NAME description="Назва ОПФ">ОРГАН ДЕРЖАВНОЇ ВЛАДИ</OLF_NAME>
+            <OLF_TYPE ID="" description="Тип ОПФ"/>
+            <INCLUDE_OLF ID="0" description="Включати ОПФ до найменування">ні</INCLUDE_OLF>
+            <NAME description="Назва">ДЕРЖАВНЕ АГЕНТСТВО РИБНОГО ГОСПОДАРСТВА УКРАЇНИ</NAME>
+            <COMBINED description="Найменування (для відображення)">ДЕРЖАВНЕ АГЕНТСТВО РИБНОГО ГОСПОДАРСТВА УКРАЇНИ</COMBINED>
+          </NAME>
+          <CODE description="Код ЄДРПОУ засновника">37472282</CODE>
+          <ADDRESS description="Адреса засновника">
+            <AD_TYPE ID="1" description="Тип адреси">звичайна адреса</AD_TYPE>
+            <AD_HOUSE_TYPE ID="1" description="Тип будинку">будинок</AD_HOUSE_TYPE>
+            <HOUSE description="Номер будинку">45-А</HOUSE>
+            <AD_BUILDING_TYPE ID="" description="Тип корпуса"/>
+            <BUILDING description="Номер корпуса"/>
+            <AD_NUM_TYPE ID="" description="Тип квартири"/>
+            <NUM description="Номер квартири"/>
+            <ZIP_CODE description="Індекс">04053</ZIP_CODE>
+            <CN_NAME description="Країна">УКРАЇНА</CN_NAME>
+            <CN_CODE description="Код країни (alpha-3)">UKR</CN_CODE>
+            <ATU_NAME description="Населений пункт">м.Київ, Шевченківський район</ATU_NAME>
+            <ATU_CODE description="Код населеного пункта (АТУ)">8039100000</ATU_CODE>
+            <STREET description="Вулиця">ВУЛИЦЯ АРТЕМА </STREET>
+            <ADDITIONAL description="Адреса в довільному форматі (вказується, якщо тип адреси &apos;в довільному форматі&apos;)"/>
+            <COMBINED description="Комбінована адреса (для відображення)">04053, м.Київ, Шевченківський район, ВУЛИЦЯ АРТЕМА , будинок 45-А</COMBINED>
+          </ADDRESS>
+          <AUTHORIZED_CAPITAL description="Розмір внеску до статутного фонду (грн.)">428200.00</AUTHORIZED_CAPITAL>
+        </FOUNDER>
+      </FOUNDERS>
+      <AUTHORIZED_CAPITAL description="Дані про розмір статутного капіталу (статутного або складеного капіталу) та про дату закінчення його формування">
+        <VALUE description="Розмір (грн.)">428200.00</VALUE>
+        <END_DATE description="Дата закінчення формування" format="DD.MM.YYYY"/>
+      </AUTHORIZED_CAPITAL>
+      <ACTIVITY_KINDS description="Види діяльності">
+        <ACTIVITY_KIND description="Вид діяльності">
+          <CODE description="Код КВЕД">68.31</CODE>
+          <NAME description="Назва КВЕД">Агентства нерухомості</NAME>
+          <PRIMARY ID="0" description="Ознака основного вида діяльності">ні</PRIMARY>
+        </ACTIVITY_KIND>
+        <ACTIVITY_KIND description="Вид діяльності">
+          <CODE description="Код КВЕД">71.11</CODE>
+          <NAME description="Назва КВЕД">Діяльність у сфері архітектури</NAME>
+          <PRIMARY ID="1" description="Ознака основного вида діяльності">так</PRIMARY>
+        </ACTIVITY_KIND>
+        <ACTIVITY_KIND description="Вид діяльності">
+          <CODE description="Код КВЕД">71.12</CODE>
+          <NAME description="Назва КВЕД">Діяльність у сфері інжинірингу, геології та геодезії, надання послуг технічного консультування в цих сферах</NAME>
+          <PRIMARY ID="0" description="Ознака основного вида діяльності">ні</PRIMARY>
+        </ACTIVITY_KIND>
+        <ACTIVITY_KIND description="Вид діяльності">
+          <CODE description="Код КВЕД">74.90</CODE>
+          <NAME description="Назва КВЕД">Інша професійна, наукова та технічна діяльність, н. в. і. у.</NAME>
+          <PRIMARY ID="0" description="Ознака основного вида діяльності">ні</PRIMARY>
+        </ACTIVITY_KIND>
+      </ACTIVITY_KINDS>
+      <SUPERIOR_MANAGEMENT description="Відомості про органи управління юридичної особи">ДИРЕКТОР</SUPERIOR_MANAGEMENT>
+      <SIGNERS description="Прізвище, ім&apos;я, по батькові, дата обрання (призначення) осіб, які обираються (призначаються) до органу управління юридичної особи, уповноважених представляти юридичну особу у правовідносинах з третіми особами, або осіб, які мають право вчиняти дії від імені юридичної особи без довіреності, у тому числі підписувати договори та дані про наявність обмежень щодо представництва від імені юридичної особи">
+        <SIGNER_NAME description="Підписант ЮО">
+          <LAST_NAME description="Прізвище">НИКОЛЕНКО</LAST_NAME>
+          <FIRST_MIDDLE_NAME description="Ім&apos;я, по батькові">ОЛЕГ МИКОЛАЙОВИЧ</FIRST_MIDDLE_NAME>
+          <APPOINTMENT_DATE description="Дата обрання/призначення" format="DD.MM.YYYY">05.04.2012</APPOINTMENT_DATE>
+          <ROLE ID="3" description="Роль суб&apos;єкта">керівник</ROLE>
+          <RESTRICTION description="Обмеження">Виконуючий обов&apos;язки</RESTRICTION>
+        </SIGNER_NAME>
+      </SIGNERS>
+      <REGISTRATION description="Дата та номер запису в Єдиному державному реєстрі про проведення державної реєстрації юридичної особи – у разі, коли державна реєстрація юридичної особи була проведена після набрання чинності Законом України &quot;Про державну реєстрацію юридичних осіб та фізичних осіб-підприємців&quot;">
+        <OP_DATE description="Дата запису" format="DD.MM.YYYY"/>
+        <OP_NUM description="Номер запису"/>
+      </REGISTRATION>
+      <INCLUDE description="Дата державної реєстрації, дата та номер запису в Єдиному державному реєстрі про включення до Єдиного державного реєстру відомостей про юридичну особу – у разі, коли державна реєстрація юридичної особи була проведена до набрання чинності Законом України &quot;Про державну реєстрацію юридичних осіб та фізичних осіб-підприємців&quot;">
+        <RF_DATE description="Дата державної реєстрації" format="DD.MM.YYYY">13.03.1996</RF_DATE>
+        <OP_DATE description="Дата запису" format="DD.MM.YYYY">29.12.2005</OP_DATE>
+        <OP_NUM description="Номер запису">1 074 120 0000 013965</OP_NUM>
+      </INCLUDE>
+      <REFORMATION description="Дата державної реєстрації, дата та номер запису в Єдиному державному реєстрі про проведення державної реєстрації юридичної особи, яка утворена в результаті перетворення">
+        <RF_DATE description="Дата державної реєстрації" format="DD.MM.YYYY"/>
+        <OP_DATE description="Дата запису" format="DD.MM.YYYY"/>
+        <OP_NUM description="Номер запису"/>
+      </REFORMATION>
+      <CONFIRMATION_STATE ID="2" description="Статус відомостей про юридичну особу">відомості не підтверджено</CONFIRMATION_STATE>
+      <STATUTE_NAME description="Назва установчого документа"/>
+      <MODEL_STATUTE description="Дані про наявність відмітки про те, що юридична особа створюється та діє на підставі модельного статуту"/>
+      <BRANCHES description="Дані про відокремлені підрозділи юридичної особи">
+        <BRANCH description="Відокремлений підрозділ">
+          <NAME description="Назва ВП">ЧЕРКАСЬКА ФІЛІЯ ІНСТИТУТУ &quot;УКРРИБПРОЕКТ&quot;</NAME>
+          <CODE description="Код ЄДРПОУ ВП">25873893</CODE>
+          <ADDRESS description="Місцезнаходження ВП">
+            <AD_TYPE ID="1" description="Тип адреси">звичайна адреса</AD_TYPE>
+            <AD_HOUSE_TYPE ID="" description="Тип будинку"/>
+            <HOUSE description="Номер будинку"/>
+            <AD_BUILDING_TYPE ID="" description="Тип корпуса"/>
+            <BUILDING description="Номер корпуса"/>
+            <AD_NUM_TYPE ID="" description="Тип квартири"/>
+            <NUM description="Номер квартири"/>
+            <ZIP_CODE description="Індекс">19616</ZIP_CODE>
+            <CN_NAME description="Країна">УКРАЇНА</CN_NAME>
+            <CN_CODE description="Код країни (alpha-3)">UKR</CN_CODE>
+            <ATU_NAME description="Населений пункт">Черкаська обл., Черкаський район, село Яснозір&apos;я</ATU_NAME>
+            <ATU_CODE description="Код населеного пункта (АТУ)">7124989501</ATU_CODE>
+            <STREET description="Вулиця">ВУЛИЦЯ ЛЕНІНА</STREET>
+            <ADDITIONAL description="Адреса в довільному форматі (вказується, якщо тип адреси &apos;в довільному форматі&apos;)"/>
+            <COMBINED description="Комбінована адреса (для відображення)">19616, Черкаська обл., Черкаський район, село Яснозір&apos;я, ВУЛИЦЯ ЛЕНІНА</COMBINED>
+          </ADDRESS>
+        </BRANCH>
+        <BRANCH description="Відокремлений підрозділ">
+          <NAME description="Назва ВП">ФІЛІЯ УКРАЇНСЬКОГО ДЕРЖАВНОГО ІНСТИТУТУ ПО ПРОЕКТУВАННЮ ПІДПРИЄМСТВ РИБНОГО ГОСПОДАРСТВА І ПРОМИСЛОВОСТІ &quot;УКРИБПРОЕКТ&quot;</NAME>
+          <CODE description="Код ЄДРПОУ ВП">26012816</CODE>
+          <ADDRESS description="Місцезнаходження ВП">
+            <AD_TYPE ID="1" description="Тип адреси">звичайна адреса</AD_TYPE>
+            <AD_HOUSE_TYPE ID="1" description="Тип будинку">будинок</AD_HOUSE_TYPE>
+            <HOUSE description="Номер будинку">16</HOUSE>
+            <AD_BUILDING_TYPE ID="" description="Тип корпуса"/>
+            <BUILDING description="Номер корпуса"/>
+            <AD_NUM_TYPE ID="" description="Тип квартири"/>
+            <NUM description="Номер квартири"/>
+            <ZIP_CODE description="Індекс">69065</ZIP_CODE>
+            <CN_NAME description="Країна">УКРАЇНА</CN_NAME>
+            <CN_CODE description="Код країни (alpha-3)">UKR</CN_CODE>
+            <ATU_NAME description="Населений пункт">Запорізька обл., місто Запоріжжя, Ленінський район</ATU_NAME>
+            <ATU_CODE description="Код населеного пункта (АТУ)">2310136900</ATU_CODE>
+            <STREET description="Вулиця">ВУЛИЦЯ ВОЛОГОДСЬКА</STREET>
+            <ADDITIONAL description="Адреса в довільному форматі (вказується, якщо тип адреси &apos;в довільному форматі&apos;)"/>
+            <COMBINED description="Комбінована адреса (для відображення)">69065, Запорізька обл., місто Запоріжжя, Ленінський район, ВУЛИЦЯ ВОЛОГОДСЬКА, будинок 16</COMBINED>
+          </ADDRESS>
+        </BRANCH>
+      </BRANCHES>
+      <BANKRUPTCY_READJUSTMENT_INFO description="Дані про перебування юридичної особи в процесі провадження у справі про банкрутство, санації"/>
+      <TERMINATION_STARTED_INFO description="Дані про перебування юридичної особи в процесі припинення"/>
+      <CREDITOR_REQ_END_DATE description="Відомості про строк, визначений засновниками (учасниками) юридичної особи, судом або органом, що прийняв рішення про припинення юридичної особи, для заявлення кредиторами своїх вимог" format="DD.MM.YYYY"/>
+      <TERMINATED_INFO description="Дата та номер запису про державну реєстрацію припинення юридичної особи, підстава для його внесення"/>
+      <TERMINATION_CANCEL_INFO description="Дата та номер запису про відміну державної реєстрації припинення юридичної особи, підстава для його внесення"/>
+      <PREDECESSORS description="Дані про юридичних осіб, правонаступником яких є зареєстрована юридична особа"/>
+      <ASSIGNEES description="Дані про юридичних осіб-правонаступників: повне найменування та місцезнаходження юридичних осіб-правонаступників, їх ідентифікаційні коди"/>
+      <CURRENT_AUTHORITY description="Місцезнаходження реєстраційної справи">Відділ державної реєстрації юридичних осіб та фізичних осіб - підприємців Шевченківського району реєстраційної служби Головного управління юстиції у місті Києві</CURRENT_AUTHORITY>
+      <EXCHANGE_DATA description="Відомості, отримані в порядку взаємного обміну інформацією з відомчих реєстрів органів статистики, Міндоходів, Пенсійного фонду України">
+        <REGISTRATION_REMOVAL_INFO description="Дата та номер запису про взяття та зняття з обліку, назва та ідентифікаційні коди органів статистики,  Міндоходів, Пенсійного фонду України, в яких юридична особа перебуває на обліку:">
+          <EXCHANGE_ANSWER description="Дані від одного з органів">
+            <AUTHORITY_NAME description="Назва органу">ГОЛОВНЕ УПРАВЛІННЯ РЕГІОНАЛЬНОЇ СТАТИСТИКИ</AUTHORITY_NAME>
+            <AUTHORITY_CODE description="Ідентифікаційний код органу">21680000</AUTHORITY_CODE>
+            <TAX_PAYER_TYPE ID="" description="Відомості про відомчий реєстр"/>
+            <START_DATE description="Дата взяття на облік" format="DD.MM.YYYY">13.05.1994</START_DATE>
+            <START_NUM description="Номер взяття на облік"/>
+            <END_DATE description="Дата зняття з обліку" format="DD.MM.YYYY"/>
+            <END_NUM description="Номер зняття з обліку"/>
+          </EXCHANGE_ANSWER>
+          <EXCHANGE_ANSWER description="Дані від одного з органів">
+            <AUTHORITY_NAME description="Назва органу">ДПI У ШЕВЧЕНКIВСЬКОМУ Р-НI М.КИЄВА ДПС</AUTHORITY_NAME>
+            <AUTHORITY_CODE description="Ідентифікаційний код органу">26088877</AUTHORITY_CODE>
+            <TAX_PAYER_TYPE ID="4002" description="Відомості про відомчий реєстр">(дані про взяття на облік як платника податків)</TAX_PAYER_TYPE>
+            <START_DATE description="Дата взяття на облік" format="DD.MM.YYYY">12.02.1992</START_DATE>
+            <START_NUM description="Номер взяття на облік">59</START_NUM>
+            <END_DATE description="Дата зняття з обліку" format="DD.MM.YYYY"/>
+            <END_NUM description="Номер зняття з обліку"/>
+          </EXCHANGE_ANSWER>
+          <EXCHANGE_ANSWER description="Дані від одного з органів">
+            <AUTHORITY_NAME description="Назва органу">Управління ПФУ в Шевченківському районі м.Києва</AUTHORITY_NAME>
+            <AUTHORITY_CODE description="Ідентифікаційний код органу">26087323</AUTHORITY_CODE>
+            <TAX_PAYER_TYPE ID="" description="Відомості про відомчий реєстр">(дані про взяття на облік як платника єдиного внеску)</TAX_PAYER_TYPE>
+            <START_DATE description="Дата взяття на облік" format="DD.MM.YYYY">24.01.2000</START_DATE>
+            <START_NUM description="Номер взяття на облік">01-00649*</START_NUM>
+            <END_DATE description="Дата зняття з обліку" format="DD.MM.YYYY"/>
+            <END_NUM description="Номер зняття з обліку"/>
+          </EXCHANGE_ANSWER>
+          <SIMPLE_TAX_PAYER_COMMENT description="Коментар щодо відсутності необхідності взяття на облік в ПФУ платника єдиного внеску"/>
+        </REGISTRATION_REMOVAL_INFO>
+        <TERMINATION_MESSAGES_DATE description="Дата надходження від органів Міндоходів, Пенсійного фонду України до державного реєстратора документів (повідомлень, інформації), передбачених Законом України &quot;Про державну реєстрацію юридичних осіб та фізичних осіб-підприємців&quot;, у зв’язку з припиненням юридичної особи із зазначенням прізвища, імені та по батькові посадової особи, яка підписала документ"/>
+        <PRIMARY_ACTIVITY_KIND description="Дані органів статистики про основний вид економічної діяльності юридичної особи, визначений на підставі даних державних статистичних спостережень відповідно до статистичної методології за підсумками діяльності за рік">
+          <CODE description="Код КВЕД">71.11</CODE>
+          <NAME description="Назва КВЕД">Діяльність у сфері архітектури</NAME>
+          <PRIMARY ID="1" description="Ознака основного вида діяльності">так</PRIMARY>
+        </PRIMARY_ACTIVITY_KIND>
+        <REG_NUMBER_KLASS description="Дані про реєстраційний номер платника єдиного внеску, клас професійного ризику виробництва платника єдиного внеску за основним видом його економічної діяльності">
+          <REG_NUMBER description="Дані про реєстраційний номер платника єдиного внеску">01-00649*</REG_NUMBER>
+          <KLASS description="Дані про клас професійного ризику виробництва платника єдиного внеску за основним видом його економічної діяльності">6</KLASS>
+        </REG_NUMBER_KLASS>
+        <END_TERM description="Термін, до якого юридична особа перебуває на обліку в органі Міндоходів за місцем попередньої реєстрації, у разі зміни місцезнаходження юридичної особи" format="DD.MM.YYYY"/>
+      </EXCHANGE_DATA>
+      <CONTACTS description="Інформація про здійснення зв&apos;язку з юридичною особою">
+        <PHONE_NUM1 description="Телефон 1">4866808        </PHONE_NUM1>
+        <PHONE_NUM2 description="Телефон 2">4866950        </PHONE_NUM2>
+        <E_MAIL description="Адреса електронної пошти"/>
+        <FAX_NUM description="Факс">4866950        </FAX_NUM>
+        <WEB_PAGE description="Веб сторінка"/>
+        <ADDITIONAL description="Інші відомості"/>
+      </CONTACTS>
+    </SUBJECT>
+  </REPORT_BODY>
+</REPORT>
+</REPORTS>
+</DATA>
